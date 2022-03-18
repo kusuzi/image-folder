@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T07:52:09.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="604e41P40IZCPPcjqg1s" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T07:56:46.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="fgYEqxgo5F0yZxcsGV0u" version="17.1.3" type="github">
   <diagram id="x-Sexi6F8sJB0yjPF3IZ" name="Page-1">
-    <mxGraphModel dx="1887" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="UxnLPPTvP_sObnjLlX6k-51" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;fontSize=13;strokeColor=#000000;strokeWidth=1;fillColor=none;align=left;" parent="1" vertex="1">
           <mxGeometry x="760" y="675" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UxnLPPTvP_sObnjLlX6k-52" value="每个batch的最小为16k" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=0;shadow=0;comic=0;fontSize=13;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="UxnLPPTvP_sObnjLlX6k-52" value="每个batch的最小为16k" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#e1d5e7;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=0;shadow=0;comic=0;fontSize=13;strokeColor=#9673a6;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="750" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UxnLPPTvP_sObnjLlX6k-53" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=13;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="UxnLPPTvP_sObnjLlX6k-52" edge="1">
@@ -82,7 +82,7 @@
         <mxCell id="UxnLPPTvP_sObnjLlX6k-54" value="内存池" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;fontSize=13;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;align=center;" parent="1" vertex="1">
           <mxGeometry x="670" y="790" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UxnLPPTvP_sObnjLlX6k-59" value="缓冲队列的总大小&amp;nbsp; 默认为32m" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=0;shadow=0;comic=0;fontSize=13;strokeColor=#000000;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="UxnLPPTvP_sObnjLlX6k-59" value="缓冲队列的总大小&amp;nbsp; 默认为32m" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=#e1d5e7;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};rounded=0;shadow=0;comic=0;fontSize=13;strokeColor=#9673a6;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="477" width="215" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UxnLPPTvP_sObnjLlX6k-60" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontSize=13;" parent="1" target="UxnLPPTvP_sObnjLlX6k-59" edge="1">
@@ -111,7 +111,7 @@
         <mxCell id="UxnLPPTvP_sObnjLlX6k-80" value="sender线程抓取数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="950" y="590" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UxnLPPTvP_sObnjLlX6k-82" value="抓取数据的条件：&lt;br&gt;1. 当&lt;b&gt;batchsize&lt;/b&gt;达到16k&lt;br&gt;2.&amp;nbsp;如果生产者迟迟不发送数据，batchsize一直没有达到16k，则由&lt;b&gt;ling.ms&lt;/b&gt;时间控制，默认是0ms" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;fontSize=13;strokeColor=#000000;strokeWidth=1;fillColor=none;align=left;dashed=1;" parent="1" vertex="1">
+        <mxCell id="UxnLPPTvP_sObnjLlX6k-82" value="抓取数据的条件：&lt;br&gt;1. 当&lt;b&gt;batchsize&lt;/b&gt;达到16k&lt;br&gt;2.&amp;nbsp;如果生产者迟迟不发送数据，batchsize一直没有达到16k，则由&lt;b&gt;ling.ms&lt;/b&gt;时间控制，默认是0ms" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;fontSize=13;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="958" y="640" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UxnLPPTvP_sObnjLlX6k-88" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=13;strokeWidth=1;" parent="1" source="UxnLPPTvP_sObnjLlX6k-83" target="UxnLPPTvP_sObnjLlX6k-87" edge="1">
@@ -147,7 +147,7 @@
         <mxCell id="UxnLPPTvP_sObnjLlX6k-87" value="成功应答？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;fontSize=13;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;comic=0;" parent="1" vertex="1">
           <mxGeometry x="1235" y="760" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UxnLPPTvP_sObnjLlX6k-100" value="retrie重试次数，默认为Integer的最大值，通常设置为3-5次" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;fontSize=13;strokeColor=#000000;strokeWidth=1;fillColor=none;align=center;dashed=1;" parent="1" vertex="1">
+        <mxCell id="UxnLPPTvP_sObnjLlX6k-100" value="retrie重试次数，默认为Integer的最大值，通常设置为3-5次" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;fontSize=13;strokeColor=#9673a6;strokeWidth=1;fillColor=#e1d5e7;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="725" width="130" height="65" as="geometry" />
         </mxCell>
         <mxCell id="UxnLPPTvP_sObnjLlX6k-101" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;comic=0;fontSize=13;strokeColor=#000000;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
